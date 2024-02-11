@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @leo-cloud-pixel
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning html5 and css3
-- 😄 Pronouns: she/her
+
   
 
 <!---
